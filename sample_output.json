@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://www.opensea.io/product/sample-item-123456",
+    "title": "Sample Product from OpenSea",
+    "brand": "Sample Brand",
+    "initial_price": 59.99,
+    "final_price": 44.99,
+    "currency": "USD",
+    "discount": "25%",
+    "in_stock": true,
+    "rating": 4.5,
+    "reviews_count": 1234,
+    "seller_name": "OpenSea Official Store",
+    "images": [
+      "https://opensea.io/images/product1.jpg",
+      "https://opensea.io/images/product2.jpg"
+    ],
+    "description": "This is a sample product listing collected from OpenSea using Bright Data's Web Scraper API.",
+    "timestamp": "2025-01-15T10:30:00Z"
+  }
+]
